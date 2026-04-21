@@ -3,3 +3,7 @@
 <a href="https://gitanimals.org">
   <img src="https://render.gitanimals.org/farms/e0321e-sudo" width="600" height="300"/>
 </a>
+
+<a href="https://gitanimals.org">
+  <img src="https://render.gitanimals.org/lines/e0321e-sudo" width="1000" height="120"/>
+</a>
