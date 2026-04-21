@@ -1,15 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=e0321e-sudo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Kotlin%20%7C%20TypeScript&descAlignY=58&descSize=18&descColor=ffffff" />
+  <a href="https://github.com/e0321e-sudo">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=700&height=90&lines=e0321e-sudo" alt="e0321e-sudo" />
+  </a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B8FA8&center=true&vCenter=true&width=700&height=40&lines=Backend+Developer;Java+%7C+Kotlin+%7C+TypeScript" alt="role" />
+</p>
+
 <p align="center">
   <a href="https://github.com/e0321e-sudo">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Java+%2F+Kotlin+%2F+TypeScript;Clean+Code+%7C+Clean+Architecture;Always+learning%2C+always+building." alt="Typing SVG" />
   </a>
 </p>
+
 ---
 
 ## 👨‍💻 About Me
 
+```kotlin
 data class Developer(
     val name: String = "e0321e-sudo",
     val role: String = "Backend Developer",
@@ -18,6 +26,7 @@ data class Developer(
     val currentlyLearning: String = "Spring Boot + Kotlin",
     val funFact: String = "I debug with println() and I'm not ashamed 🐛"
 )
+```
 
 ---
 
@@ -87,10 +96,12 @@ data class Developer(
 
 ## 🏆 Trophy
 
-🏆 Trophy
 <p align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=e0321e-sudo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </p>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=555555&center=true&vCenter=true&width=700&height=30&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="footer" />
+</p>
