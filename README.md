@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="https://stardev.io/api/git-animal/e0321e-sudo" width="400" />
+[![Hits](https://git-animal.dev/api/farm/e0321e-sudo)](https://git-animal.dev)
