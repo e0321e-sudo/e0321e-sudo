@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B8FA8&center=true&vCenter=true&width=700&height=40&lines=Backend+Developer;Java+%7C+Kotlin+%7C+TypeScript" alt="role" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/e0321e-sudo">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Java+%2F+Kotlin+%2F+TypeScript;Clean+Code+%7C+Clean+Architecture;Always+learning%2C+always+building." alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
