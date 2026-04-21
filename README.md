@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![git-animal](https://stardev.io/api/git-animal/e0321e-sudo)
+![git-animal](https://git-animal.dev/api/farm/e0321e-sudo)
