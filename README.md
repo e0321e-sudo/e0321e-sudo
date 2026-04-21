@@ -1,3 +1,2 @@
-## Hi there 👋
 
-[![GitAnimal](https://render.gitanimal.com/lines/e0321e-sodo)](https://github.com/retreese/gitanimal)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=e0321e-sudo)
