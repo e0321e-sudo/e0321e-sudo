@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![git-animal](https://git-animal.dev/api/farm/e0321e-sudo)
+[![GitAnimal](https://render.gitanimal.com/lines/e0321e-sodo)](https://github.com/retreese/gitanimal)
