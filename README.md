@@ -10,7 +10,6 @@
 
 ## 👨‍💻 About Me
 
-```kotlin
 data class Developer(
     val name: String = "e0321e-sudo",
     val role: String = "Backend Developer",
@@ -19,7 +18,6 @@ data class Developer(
     val currentlyLearning: String = "Spring Boot + Kotlin",
     val funFact: String = "I debug with println() and I'm not ashamed 🐛"
 )
-```
 
 ---
 
