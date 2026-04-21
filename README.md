@@ -1,2 +1,2 @@
 
-![snake](https://github.com/e0321e-sudo/e0321e-sudo/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=e0321e-sudo)
