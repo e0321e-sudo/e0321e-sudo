@@ -18,10 +18,10 @@ object e0321e_sudo {
     val role      = "Backend Developer"
     val location  = "🇰🇷 South Korea"
 
-    val languages = listOf("Java", "Kotlin", "TypeScript", "JavaScript")
-    val frameworks = listOf("Spring Boot", "Node.js", "Express")
-    val databases  = listOf("MySQL", "PostgreSQL", "Redis", "MongoDB")
-    val devops     = listOf("Docker", "Kubernetes", "Linux", "Git")
+    val languages = listOf("Java", "TypeScript", "JavaScript")
+    val frameworks = listOf("Spring Boot", "Node.js")
+    val databases  = listOf("MySQL", "Redis")
+    val devops     = listOf("Docker", "Git")
 
     val interests = listOf(
         "Clean Architecture",
@@ -30,8 +30,8 @@ object e0321e_sudo {
         "DDD (Domain Driven Design)"
     )
 
-    val currentlyLearning = "Spring Boot + Kotlin 🌱"
-    val goal              = "대기업 백엔드 개발자 🚀"
+    val currentlyLearning = "Spring Boot 🌱"
+    val goal              = "백엔드 개발자 🚀"
     val funFact           = "I debug with println() and I'm not ashamed 🐛"
 
     fun contact() = mapOf(
