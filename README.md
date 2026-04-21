@@ -3,7 +3,3 @@
 <img src="https://skillicons.dev/icons?i=js,python,react,ts,git,vscode&theme=light" />
 
 <img src="https://render.gitanimals.org/farms/e0321e-sudo" width="600" height="300"/>
-
-<a href="https://gitanimals.org">
-  <img src="https://render.gitanimals.org/farms/e0321e-sudo" width="600" height="300"/>
-</a>
