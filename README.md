@@ -1,4 +1,4 @@
-[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=e0321e-sudo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Kotlin%20%7C%20TypeScript&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 <p align="center">
   <a href="https://github.com/e0321e-sudo">
@@ -8,36 +8,73 @@
 
 ---
 
+## 👨‍💻 About Me
+
+```kotlin
+data class Developer(
+    val name: String = "e0321e-sudo",
+    val role: String = "Backend Developer",
+    val languages: List<String> = listOf("Java", "Kotlin", "TypeScript", "JavaScript"),
+    val interests: List<String> = listOf("Clean Architecture", "API Design", "Performance Tuning"),
+    val currentlyLearning: String = "Spring Boot + Kotlin",
+    val funFact: String = "I debug with println() and I'm not ashamed 🐛"
+)
+```
+
+---
 
 ## 🛠 Tech Stack
 
 **Language**
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,ts,js&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,gradle&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+</p>
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongodb&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,idea&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e0321e-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e0321e-sudo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e0321e-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=e0321e-sudo&theme=tokyonight-duo&hide_border=true&background=0d1117&fire=A78BFA&ring=A78BFA&currStreakLabel=A78BFA" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e0321e-sudo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=e0321e-sudo&theme=tokyonight&hide_border=true&background=0d1117&fire=A78BFA&ring=A78BFA&currStreakLabel=A78BFA" />
 </p>
 
 ---
