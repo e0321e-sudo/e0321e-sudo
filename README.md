@@ -88,10 +88,17 @@ data class Developer(
 
 ---
 
-## 🏆 Trophy
+## 🏆 Stats Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=e0321e-sudo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://img.shields.io/badge/Total%20Commits-206-A78BFA?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Languages-Java%20%7C%20Kotlin%20%7C%20TS-3178C6?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Role-Backend%20Developer-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-FF7B72?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-Spring%20Boot%20%2B%20Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Since-2025-FFA657?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
