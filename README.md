@@ -1,4 +1,5 @@
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100
+[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100)
+
 <p align="center">
   <a href="https://github.com/e0321e-sudo">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Java+%2F+Kotlin+%2F+TypeScript;Clean+Code+%7C+Clean+Architecture;Always+learning%2C+always+building." alt="Typing SVG" />
