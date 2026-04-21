@@ -69,10 +69,10 @@ data class Developer(
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e0321e-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=e0321e-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e0321e-sudo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=e0321e-sudo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=e0321e-sudo&theme=tokyonight&hide_border=true&background=0d1117&fire=A78BFA&ring=A78BFA&currStreakLabel=A78BFA" />
@@ -91,7 +91,7 @@ data class Developer(
 ## 🏆 Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=e0321e-sudo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=e0321e-sudo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </p>
 
 ---
