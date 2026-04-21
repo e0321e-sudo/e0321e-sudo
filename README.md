@@ -12,14 +12,32 @@
 ## 👨‍💻 About Me
 
 ```kotlin
-data class Developer(
-    val name: String = "e0321e-sudo",
-    val role: String = "Backend Developer",
-    val languages: List<String> = listOf("Java", "Kotlin", "TypeScript", "JavaScript"),
-    val interests: List<String> = listOf("Clean Architecture", "API Design", "Performance Tuning"),
-    val currentlyLearning: String = "Spring Boot + Kotlin",
-    val funFact: String = "I debug with println() and I'm not ashamed 🐛"
-)
+object e0321e_sudo {
+
+    val name      = "e0321e-sudo"
+    val role      = "Backend Developer"
+    val location  = "🇰🇷 South Korea"
+
+    val languages = listOf("Java", "Kotlin", "TypeScript", "JavaScript")
+    val frameworks = listOf("Spring Boot", "Node.js", "Express")
+    val databases  = listOf("MySQL", "PostgreSQL", "Redis", "MongoDB")
+    val devops     = listOf("Docker", "Kubernetes", "Linux", "Git")
+
+    val interests = listOf(
+        "Clean Architecture",
+        "API Design",
+        "Performance Tuning",
+        "DDD (Domain Driven Design)"
+    )
+
+    val currentlyLearning = "Spring Boot + Kotlin 🌱"
+    val goal              = "대기업 백엔드 개발자 🚀"
+    val funFact           = "I debug with println() and I'm not ashamed 🐛"
+
+    fun contact() = mapOf(
+        "github" to "github.com/e0321e-sudo"
+    )
+}
 ```
 
 ---
